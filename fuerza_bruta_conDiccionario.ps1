@@ -2,7 +2,7 @@
 $passwords = @("password", "hola", "admin", "user", "1234", "qwerty", "letmein")
 
 # Nombre del usuario objetivo
-$user = "admin"
+$user = "Pitágoras"
 
 foreach ($password in $passwords) {
     try {
